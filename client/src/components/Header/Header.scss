@@ -1,0 +1,10 @@
+.shownItem{
+    font-size: 30px;
+    color: teal;
+    font-weight: 500;
+    margin-top: 17px;
+    text-decoration: none;
+    &:hover,:active{
+        color:darkcyan;
+    }
+}
