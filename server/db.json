@@ -5,6 +5,12 @@
       "description": "This is my First Stream 1",
       "userId": "114904856613549958212",
       "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is my Second Stream",
+      "userId": "114904856613549958212",
+      "id": 2
     }
   ]
 }
